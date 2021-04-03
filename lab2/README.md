@@ -5,3 +5,13 @@
 
 ![image](https://user-images.githubusercontent.com/63103070/112751033-b96c0600-9006-11eb-8a2e-4b8541eaf6e8.png)
 
+
+## Add Post 구현
+`textarea` 와 `button` 태그를 활용하여 post 추가하기
+아래 사진을 참고하여 2주차 과제에서 post를 추가할 수 있는 입력창을 만들어주세요!
+
+- useState 사용하여 input 관리
+![image](https://user-images.githubusercontent.com/63103070/113475143-bf526300-94ae-11eb-8b60-3d7bc8b28475.png)
+![image](https://user-images.githubusercontent.com/63103070/113475157-de50f500-94ae-11eb-99d6-866735c33467.png)
+![image](https://user-images.githubusercontent.com/63103070/113475171-edd03e00-94ae-11eb-9982-575a11dccd01.png)
+
